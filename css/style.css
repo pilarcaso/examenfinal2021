@@ -1,0 +1,227 @@
+@font-face{
+	font-family: "catamaran";
+	 src:url("../fonts/Catamaran-VariableFont_wght.ttf") format("truetype");
+	
+}
+
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+
+body{
+	font-family: "catamaran";
+	color: #898989;
+	font-size: 13px;
+}
+header{
+	background-color: #fff;
+}
+
+#hero-slides h3{
+	font-family: "catamaran";
+	font-size: 30px;
+	padding-bottom: 30px;
+	font-weight: 600;
+}
+
+
+#hero-slides h1{
+	font-family:"catamaran";
+	font-weight: 600;
+	font-size:85px;
+}
+
+.btn-info{
+	background-color: #fff;
+	border-radius: 20px;
+	padding:10px;
+	border-color: transparent;
+
+}
+
+#conference{
+	text-align: center;
+	padding: 5% 0 15%;
+	font-size: 20px;
+	color:#C5C5C5;
+}
+
+.titulo{
+	font-family: "catamaran";
+	color: var(--menu-hover);
+}
+
+#conference h2{
+	padding-bottom: 15px;
+}
+
+
+#conference h5{
+	color: var(--menu-hover);
+	padding-bottom: 14px;
+	font-family: "catamaran";
+	padding-top: 20px;
+	font-size: 20px;
+	padding-bottom: 13px;
+}
+
+#conference h6{
+	font-family: "catamaran";
+	padding-bottom: 4%;
+	padding-top: 2%;
+	font-size:20px;
+	font-weight: 600;
+}
+
+
+#conference p{
+	font-family: "catamaran";
+	text-align: center;
+	padding-top: 5% 0 5%;
+	font-size:18px;
+	font-weight: 400;
+	
+}
+
+
+#conference img{
+	padding-bottom: 5%;
+	
+}
+
+#speakers{
+	text-align:center;
+	padding: 5% 0 15%;
+	color: #c5c5c5;
+	font-size: 18px;
+}
+
+
+#speakers p{
+	font-size: 16px;
+	font-weight: 600;
+	padding-bottom: 25px;
+	padding-right: 8%;
+	margin-left: 5%;
+	text-align: center;
+	
+}
+
+
+#speakers h2{
+	padding-bottom: 30px;
+}
+
+#speakers h4{
+	font-size: 22px;
+	font-weight: 300;
+	padding-bottom: 5px;
+	padding-top: 20px;
+	font-family: "catamaran";
+}
+
+#speakers h3{
+	font-size: 22px;
+	font-weight: 300;
+	padding-bottom: 15px;
+	padding-top: 20px;
+	font-family: "catamaran";
+	color: var(--menu-hover);
+	
+}
+
+#speakers h5{
+	color: #c5c5c5;
+	padding-bottom: 15px;
+}
+
+
+#meeting {
+	color:#fff;
+	background-color: #282d33;
+	padding: 100px 20px;
+	
+
+}
+
+
+.icon i{
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	display: inline-block;
+	color: #c6c6c6;
+	text-align: center;
+	border: 0.5px solid #282d33;
+	font-size: 70px;
+	padding: 9% 0;
+}
+
+#meeting h3{
+	font-family: "catamaran";
+	font-size:17px;
+}
+
+
+#meeting {
+	color: #c5c5c5;
+	font-size:16px;
+}
+
+
+#meeting h6{
+	font-family: "catamaran";
+	padding-top: 10%;
+	font-size: 15px;
+	color: #fff;
+}
+
+#meeting h3{
+	font-family: "catamaran";
+	padding-top: 10%;
+	font-size: 28px;
+	color: #fff;
+}
+
+
+#meeting p{
+	text-align: justify;
+	padding-right: 5%;
+}
+
+
+#sponsors{
+	padding: 30px;
+	text-align: center;
+	padding-bottom: 35px;
+	
+}
+
+
+#sponsors p{
+	padding: 30px;
+	text-align: center;
+	font-size:16px;
+	margin: 0 10%;
+}
+
+#sponsors2 {
+	padding: 30px;
+	text-align: center;
+	padding-bottom: 80px;
+}
+
+
+
+footer{
+	color: #FFFFFF;
+	background-color: #1E1F23;
+	padding: 20px 0;
+	text-align: center;
+	font-size: 15px;
+}
+
+
